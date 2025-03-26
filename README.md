@@ -2,42 +2,6 @@
 
 ---
 
-## 🇬🇧 English
-
-### 📌 Available Languages
-This repository provides documentation in multiple languages:
-- 🇬🇧 [English](https://github.com/muh-ramadhan/Mikrotik-RouterOS-V7/tree/en)
-- 🇮🇩 [Bahasa Indonesia](https://github.com/muh-ramadhan/Mikrotik-RouterOS-V7/tree/id)
-
-### 📖 About
-This repository is dedicated to everything related to **MikroTik RouterOS v7**. Here, you will find tutorials, configurations, scripts, and troubleshooting guides to help you optimize your MikroTik router.
-
-### 🔗 Branch Structure
-- The **main** branch contains the structure and links to different language branches.
-- The **en** branch contains documentation in **English**.
-- The **id** branch contains documentation in **Bahasa Indonesia**.
-
-### 🚀 Getting Started
-To explore the documentation, switch to the preferred language branch:
-```bash
-# Clone the repository
-git clone https://github.com/muh-ramadhan/Mikrotik-RouterOS-V7.git
-
-# Switch to English documentation
-git checkout en
-
-# Switch to Bahasa Indonesia documentation
-git checkout id
-```
-
-### 🛠 Contributions
-Contributions are welcome! Feel free to submit **pull requests** for corrections, updates, or new tutorials.
-
-### 📜 License
-This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for details.
-
----
-
 ## 🇮🇩 Bahasa Indonesia
 
 ### 📌 Bahasa yang Tersedia
