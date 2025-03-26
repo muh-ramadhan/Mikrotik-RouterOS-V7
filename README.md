@@ -1,7 +1,5 @@
 # Mikrotik-RouterOS-V7
 
-🔄 **English | [Bahasa Indonesia](#bahasa-indonesia)**
-
 ---
 
 ## 🇬🇧 English
